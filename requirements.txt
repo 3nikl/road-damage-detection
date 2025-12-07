@@ -1,7 +1,4 @@
-streamlit==1.32.2
-tensorflow==2.15.0
-numpy
-pillow
-geopy
-streamlit-folium
-folium
+streamlit
+torch
+torchvision
+Pillow
